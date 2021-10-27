@@ -1,0 +1,39 @@
+#Aliases
+
+#fix obvious typo's
+alias cd..='cd ..'
+alias pdw="pwd"
+alias unin="sudo pacman -Rns"
+alias install="sudo pacman -S"
+
+## Colorize the grep command output for ease of use (good for log files)##
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+
+alias convert="magick convert"
+alias cp="cp -r"
+alias rm="rm -r"
+alias mytime="tty-clock -ct"
+alias update="sudo pacman -Syyu && yay -Syyu --noconfirm"
+alias vimrc="nvim .config/nvim/init.vim"
+alias v="nvim"
+alias w="nitrogen --set-zoom-fill --head=1 --random $HOME/media/Pictures/walls"
+alias e="nitrogen --set-zoom-fill --head=0 --random $HOME/media/Pictures/walls"
+alias utar="tar -zxvf"
+alias ls="exa -aG --color=always --icons --group-directories-first"
+alias la="exa -a --color=always --icons --group-directories-first"
+alias cp="cp -i"
+alias ff="fanficfare -p"
+alias i3con="nvim .config/i3/config"
+alias zsh="nvim $HOME/.config/zsh/.zshrc"
+alias backup="rsync -auv --delete /home /run/media/drmdub/Artemis/Backups/2021/julyinstall"
+alias ducks='du -cks * | sort -rn | head'
+alias samba="sudo smbd start"
+alias c="clear"
+alias sprint="termdown 20m && echo SPRINT DONE && paplay /usr/share/sounds/freedesktop/stereo/complete.oga"
+alias sprint30="termdown 30m && echo SPRINT DONE && paplay /usr/share/sounds/freedesktop/stereo/complete.oga"
+alias poly="nvim .config/polybar/config"
+alias sc="cd $HOME/Downloads/gitthings/scripts"
+alias gt="cd $HOME/Downloads/gitthings"
+alias repo="cd $HOME/myrepo"
