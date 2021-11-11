@@ -11,6 +11,9 @@ window:
   padding:
     x: 5
     y: 5
+  dimensions:
+    columns: 100
+    lines: 25
 
 cursor:
   unfocused_hollow: true
@@ -338,6 +341,78 @@ schemes:
       cyan:    '#54ced6'
       white:   '#282a2e'
 
+  ### moonfly ###
+  moonfly: &moonfly
+     # Default colors
+    primary:
+      background: '#080808'
+      foreground: '#b2b2b2'
+
+    # Colors the cursor will use if `custom_cursor_colors` is true
+    cursor:
+      text: '#080808'
+      cursor: '#b2b2b2'
+
+    # Normal colors
+    normal:
+      black:   '#323437'
+      red:     '#ff5454'
+      green:   '#8cc85f'
+      yellow:  '#e3c78a'
+      blue:    '#80a0ff'
+      magenta: '#d183e8'
+      cyan:    '#79dac8'
+      white:   '#c6c6c6'
+
+    # Bright colors
+    bright:
+      black:   '#949494'
+      red:     '#ff5189'
+      green:   '#36c692'
+      yellow:  '#bfbf97'
+      blue:    '#74b2ff'
+      magenta: '#ae81ff'
+      cyan:    '#85dc85'
+      white:   '#e4e4e4'
+
+# Colors (PaperColor - Light)
+
+  ### papercolor ###
+  papercolor: &papercolor
+
+  # Default colors
+    primary:
+      background: '0xeeeeee'
+      foreground: '0x878787'
+
+    cursor:
+      text: '0xeeeeee'
+      cursor: '0x878787'
+
+  # Normal colors
+    normal:
+      black:   '0xeeeeee'
+      red:     '0xaf0000'
+      green:   '0x008700'
+      yellow:  '0x5f8700'
+      blue:    '0x0087af'
+      magenta: '0x878787'
+      cyan:    '0x005f87'
+      white:   '0x444444'
+
+  # Bright colors
+    bright:
+      black:   '0xbcbcbc'
+      red:     '0xd70000'
+      green:   '0xd70087'
+      yellow:  '0x8700af'
+      blue:    '0xd75f00'
+      magenta: '0xd75f00'
+      cyan:    '0x005faf'
+      white:   '0x005f87'
+colors: *moonfly
+
+
 ######################################################################
 ## SET THEME: Choose ONE color scheme from those in the above list. ##
 ## ###################################################################
@@ -352,7 +427,7 @@ schemes:
 # *solarized-dark
 # *tomorrow-night
 
-colors: *dracula
+colors: *moonfly
 
 #######################################
 ##       END OF COLOR SCHEMES        ##

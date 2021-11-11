@@ -2,9 +2,9 @@ sw_volume: 54
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: pause
-current: 23
-time: 103.985000
-random: 1
+current: 0
+time: 29.415000
+random: 0
 repeat: 1
 single: 0
 consume: 0
@@ -12,165 +12,24 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Breaking Benjamin/Shallow Bay The Best of Breaking Benjamin/Breath.mp3
-1:Breaking Benjamin/Shallow Bay The Best of Breaking Benjamin/I Will Not Bow.mp3
-2:Breaking Benjamin/Shallow Bay The Best of Breaking Benjamin/So Cold.mp3
-3:Breaking Benjamin/Shallow Bay The Best of Breaking Benjamin/Until The End.mp3
-4:Breaking Benjamin/Shallow Bay The Best of Breaking Benjamin/The Diary of Jane.mp3
-5:Breaking Benjamin/Shallow Bay The Best of Breaking Benjamin/Sooner Or Later.mp3
-6:Breaking Benjamin/Dear Agony/09 - Dear Agony.mp3
-7:Breaking Benjamin/Saturate/Shallow Bay.mp3
-8:Breaking Benjamin/Saturate/Next To Nothing.mp3
-9:Buckcherry/2006-15 (plus 2 tracks from Japanese Edition)/04 Everything.mp3
-10:Buckcherry/2006-15 (plus 2 tracks from Japanese Edition)/06 Sorry.mp3
-11:Buckcherry/2006-15 (plus 2 tracks from Japanese Edition)/07 Crazy Bitch.mp3
-12:Bullet for my Valentine/[2005] The Poison (Re-Issue 2006)/03 - 4 Words (To Choke Upon).mp3
-13:Bullet for my Valentine/[2005] The Poison (Re-Issue 2006)/04 - Tears Don't Fall.mp3
-14:Creed/Creed/03. My own prison.mp3
-15:Creed/Creed/09. Higher.mp3
-16:Creed/Creed/08. With arms wide open.mp3
-17:Creed/Creed/05. One last breath.mp3
-18:Creed/Creed/06. My sacrifice.mp3
-19:Creed/Creed/08. Weathered.mp3
-20:Creed/Creed/10. Don't stop dancing.mp3
-21:Crossfade/[2004] Crossfade/02 - Cold.mp3
-22:Crossfade/[2004] Crossfade/03 - So Far Away.mp3
-23:Crossfade/[2004] Crossfade/04 - Colors.mp3
-24:Crossfade/[2006] Falling Away/04 - Invincible.mp3
-25:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-1-It's Not Over-1-2008.mp3
-26:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-3-Home-1-2008.mp3
-27:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-2-No Surprise-1-2009.mp3
-28:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-4-Life After You-1-2009.mp3
-29:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-5-What I Meant To Say-1-2009.mp3
-30:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-6-Open Up Your Eyes-1-2009.mp3
-31:Default/2003 - Elocation/13 Let You Down [Acoustic].mp3
-32:Default/2005 - One Thing Remains/09 The Memory Will Never Die.mp3
-33:Default/Default - Comes And Goes [2009] [SvC]/02  Default - All Over Me.mp3
-34:Default/Default - Comes And Goes [2009] [SvC]/11  Default - Yesterday's Song.mp3
-35:Disturbed/2008 - Indestructible (Limited Edition)/04. The Night.mp3
-36:Disturbed/2008 - Live & Indestructible (EP)/01. Inside The Fire.mp3
-37:Disturbed/2008 - Live & Indestructible (EP)/03. Stupify.mp3
-38:Disturbed/2010 - Disturbed/03. Prayer.mp3
-39:Disturbed/2010 - Disturbed/05. Ten Thousand Fists.mp3
-40:Ed Sheeran/Divide/Save Myself.mp3
-41:Ed Sheeran/No6 Collaborations Project/Remember The Name (feat. Eminem & 50 Cent).mp3
-42:Five Finger Death Punch/A Decade of Destruction/The Bleeding.mp3
-43:Five Finger Death Punch/A Decade of Destruction/Far From Home.mp3
-44:Five Finger Death Punch/A Decade of Destruction/Lift Me Up.mp3
-45:Five Finger Death Punch/A Decade of Destruction/Remember Everything.mp3
-46:Godsmack/[1998] Godsmack/09 - Now Or Never.mp3
-47:Godsmack/[1998] Godsmack/12 - Voodoo.mp3
-48:Godsmack/[2000] Awake/02 - Awake.mp3
-49:Godsmack/[2000] Awake/11 - Spiral.mp3
-50:Godsmack/[2003] Faceless/01 - Straight Out Of Line.mp3
-51:Godsmack/[2003] Faceless/05 - I Stand Alone.mp3
-52:Godsmack/[2003] Faceless/12 - Serenity.mp3
-53:Hinder/[2005] Extreme Behavior (Deluxe Edition)/04 - Nothin' Good About Goodbye.mp3
-54:Hinder/[2005] Extreme Behavior (Deluxe Edition)/05 - Bliss (I Don't Wanna Know).mp3
-55:Hinder/[2005] Extreme Behavior (Deluxe Edition)/08 - Lips Of An Angel.mp3
-56:Hinder/[2005] Extreme Behavior (Deluxe Edition)/09 - Homecoming Queen.mp3
-57:Hinder/[2005] Extreme Behavior (Deluxe Edition)/10 - Shoulda.mp3
-58:Hinder/[2005] Extreme Behavior (Deluxe Edition)/12 - Get Stoned (Piano Version) (Bonus Track).mp3
-59:Hinder/[2008] Take It To The Limit (Deluxe Edition)/02 - Loaded And Alone.mp3
-60:Hinder/[2008] Take It To The Limit (Deluxe Edition)/03 - Last Kiss Goodbye.mp3
-61:Hinder/[2008] Take It To The Limit (Deluxe Edition)/08 - Heaven Sent.mp3
-62:Hinder/[2008] Take It To The Limit (Deluxe Edition)/11 - Far From Home.mp3
-63:Hinder/[2010] All American Nightmare/03 - What Ya Gonna Do.mp3
-64:Hinder/[2010] All American Nightmare/05 - The Life.mp3
-65:Hinder/[2010] All American Nightmare/09 - Everybody's Wrong.mp3
-66:Hinder/[2010] All American Nightmare/11 - Good Life.mp3
-67:Linkin Park/Albums/01 - Hybrid Theory (2000)/08 - In the End.mp3
-68:Linkin Park/Albums/03 - Meteora (2003)/09 - Breaking the Habit.mp3
-69:Linkin Park/Albums/03 - Meteora (2003)/13 - Numb.mp3
-70:Recorded Audio/Uptown Funk (Feat. Bruno Mars) - Uptown Special - Mark Ronson.mp3
-71:Ed Sheeran/The Hobbit - The Desolation of Smaug - Ed Sheeran 'I See Fire' [HD]-mllXxyHTzfg.mp3
-72:Nickelback/All the Right Reasons/Follow You Home.mp3
-73:Nickelback/All the Right Reasons/If Everyone Cared.mp3
-74:Nickelback/The Best of Nickelback Vol1/Animals.mp3
-75:Nickelback/The Best of Nickelback Vol1/Someday.mp3
-76:Nickelback/Dark Horse/Gotta Be Somebody.mp3
-77:Nickelback/Dark Horse/If Today Was Your Last Day.mp3
-78:Papa Roach/[2010] Time For Annihilation (On The Record & On The Road)/04 - No Matter What.mp3
-79:Papa Roach/[2010] To Be Loved - The Best Of Papa Roach/01 - Broken Home.mp3
-80:Papa Roach/[2010] To Be Loved - The Best Of Papa Roach/02 - Last Resort.mp3
-81:Papa Roach/[2010] To Be Loved - The Best Of Papa Roach/06 - Getting Away With Murder.mp3
-82:Papa Roach/[2010] To Be Loved - The Best Of Papa Roach/12 - Hollywood Whore.mp3
-83:Papa Roach/[2010] To Be Loved - The Best Of Papa Roach/13 - Lifeline.mp3
-84:Papa Roach/[2010] To Be Loved - The Best Of Papa Roach/14 - Scars (Acoustic).mp3
-85:Pop Evil/2008 - Lipstick on the Mirror/01 - Hero.mp3
-86:Pop Evil/2008 - Lipstick on the Mirror/04 - 100 in a 55.mp3
-87:Pop Evil/2008 - Lipstick on the Mirror/05 - Somebody Like You.mp3
-88:Pop Evil/2011 - War of Angels [Deluxe Edition]/08 Purple.mp3
-89:Rev Theory/(2008) Light It Up/Rev Theory - Hell Yeah.mp3
-90:Rev Theory/(2008) Light It Up/Rev Theory - Light It Up.mp3
-91:Rev Theory/(2008) Light It Up/Rev Theory - Broken Bones.mp3
-92:Rev Theory/(2008) Light It Up/Rev Theory - Wanted Man.mp3
-93:Rev Theory/(2008) Light It Up/Rev Theory - ten years.mp3
-94:Rev Theory/(2009) Acoustic Live From The Gibson Lounge/Rev Theory - Broken Bones (Acoustic).mp3
-95:Rev Theory/(2011) Justice/Rev Theory - The Fire.mp3
-96:Saliva/Saliva_-_Back_Into_Your_System_(Canadian_Import)-2002-IRO/03-saliva-always-iro.mp3
-97:Seether/[2004] Disclaimer II/12 - Broken.mp3
-98:Seether/[2007] Finding Beauty In Negative Spaces/13 - Careless Whisper.mp3
-99:Seether/[2011] Holding Onto Strings Better Left To Fray/04 - Country Song.mp3
-100:Shiinedown/[2003] Leave A Whisper (Bonus Tracks Version)/01 - Fly From The Inside.mp3
-101:Shiinedown/[2003] Leave A Whisper (Bonus Tracks Version)/05 - Better Version.mp3
-102:Shiinedown/[2003] Leave A Whisper (Bonus Tracks Version)/06 - Burning Bright.mp3
-103:Shiinedown/[2003] Leave A Whisper (Bonus Tracks Version)/15 - 45 [Acoustic].mp3
-104:Shiinedown/[2005] Us And Them (Deluxe Edition)/04 - I Dare You.mp3
-105:Shiinedown/[2005] Us And Them (Deluxe Edition)/13 - Some Day.mp3
-106:Shiinedown/[2010] The Sound Of Madness (Deluxe Edition)/01 - Devour.mp3
-107:Shiinedown/[2010] The Sound Of Madness (Deluxe Edition)/02 - Sound Of Madness.mp3
-108:Shiinedown/[2010] The Sound Of Madness (Deluxe Edition)/03 - Second Chance.mp3
-109:Shiinedown/[2010] The Sound Of Madness (Deluxe Edition)/05 - The Crow & The Butterfly.mp3
-110:Shiinedown/[2010] The Sound Of Madness (Deluxe Edition)/08 - What A Shame.mp3
-111:Shiinedown/[2010] The Sound Of Madness (Deluxe Edition)/19 - Diamond Eyes (Boom-Lay Boom-Lay Boom).mp3
-112:Shiinedown/[2012] Amaryllis (Japanese Edition)/03 - Amaryllis.mp3
-113:Shiinedown/[2012] Amaryllis (Japanese Edition)/08 - Miracle.mp3
-114:Shiinedown/[2012] Amaryllis (Japanese Edition)/09 - I’ll Follow You.mp3
-115:Shiinedown/Attention Attention/Shinedown - GET UP (Official Video)-RcohgARJTWQ.mp3
-116:Slash/Slash - Apocalyptic Love (Deluxe Edition)-2012-BriBerY/08-slash-anastasia.mp3
-117:Smile Empty Soul/[2003] Smile Empty Soul (Self Titled)/01 - Bottom Of A Bottle.mp3
-118:Smile Empty Soul/[2003] Smile Empty Soul (Self Titled)/02 - Silhouettes.mp3
-119:Staind - Discography/Albums/Staind - 2001 - Break The Cycle (U.S. Edition, Bonus track)/11. Outside.mp3
-120:Staind - Discography/Albums/Staind - 2001 - Break The Cycle (U.S. Edition, Bonus track)/14. It's Been Awhile (acoustic).mp3
-121:System Of A Down/B Sides, Demotapes, Singles, Live Shit and Compilations/KROQ Acoustic Christmas/Aerials.mp3
-122:System Of A Down/B Sides, Demotapes, Singles, Live Shit and Compilations/KROQ Acoustic Christmas/Chop Suey.mp3
-123:System Of A Down/Toxicity/12 - Toxicity.mp3
-124:System Of A Down/Steal This Album/I-E-A-I-A-I-O.mp3
-125:System Of A Down/B Sides, Demotapes, Singles, Live Shit and Compilations/BYOB/BYOB - Explicit.mp3
-126:System Of A Down/Hypnotize/08 - Holy Mountains.mp3
-127:System Of A Down/Hypnotize/11 - Lonely Day.mp3
-128:System Of A Down/Hypnotize/12 - Soldier Side.mp3
-129:System Of A Down/Mezmerize/Sad Statue.mp3
-130:System Of A Down/Mezmerize/Old School Hollywood.mp3
-131:Tantric/Tantric - 2001 - Tantric/Tantric - Tantric - 01 - Breakdown.mp3
-132:Tantric/Tantric - 2001 - Tantric/Tantric - Tantric - 03 - I Don't Care.mp3
-133:Tantric/Tantric - 2008 - The End Begins/Tantric - The End Begins - 02 - Down and Out.mp3
-134:Tantric/Tantric - 2008 - The End Begins/Tantric - The End Begins - 03 - The One (clean).mp3
-135:Tantric/Tantric - 2008 - The End Begins/Tantric - The End Begins - 04 - Love Song.mp3
-136:Tantric/Tantric - 2008 - The End Begins/Tantric - The End Begins - 06 - Something Better.mp3
-137:Tantric/Tantric - 2008 - The End Begins/Tantric - The End Begins - 08 - The End Begins.mp3
-138:Tenth Avenue North/Tenth Avenue North - 2008 - Over And Underneath/03 - Tenth Avenue North - By Your Side.mp3
-139:Theory of a Deadman/[2009] Scars & Souvenirs [Special Edition]/06 - All or Nothing.mp3
-140:Theory of a Deadman/[2009] Scars & Souvenirs [Special Edition]/08 - Bad Girlfriend.mp3
-141:Theory of a Deadman/[2009] Scars & Souvenirs [Special Edition]/16 - So Happy (Acoustic).mp3
-142:Theory of a Deadman/[2009] Scars & Souvenirs [Special Edition]/17 - By The Way (Acoustic).mp3
-143:Theory of a Deadman/[2009] Scars & Souvenirs [Special Edition]/18 - Not Meant To Be (Acoustic).mp3
-144:Three Days Grace/[2003] Three Days Grace (Japanese Edition)/02 - Just Like You.mp3
-145:Three Days Grace/[2003] Three Days Grace (Japanese Edition)/03 - I Hate Everything About You.mp3
-146:Three Days Grace/[2003] Three Days Grace (Japanese Edition)/04 - Home.mp3
-147:Three Days Grace/[2006] One-X (Japanese Edition)/01 - It's All Over.mp3
-148:Three Days Grace/[2006] One-X (Japanese Edition)/02 - Pain.mp3
-149:Three Days Grace/[2006] One-X (Japanese Edition)/03 - Animal I Have Become.mp3
-150:Three Days Grace/[2006] One-X (Japanese Edition)/04 - Never Too Late.mp3
-151:Three Days Grace/[2006] One-X (Japanese Edition)/06 - Riot.mp3
-152:Three Days Grace/[2006] One-X (Japanese Edition)/07 - Get Out Alive.mp3
-153:Three Days Grace/[2006] One-X (Japanese Edition)/09 - Over and Over.mp3
-154:Three Days Grace/[2009] Life Starts Now/03 - World So Cold.mp3
-155:Three Days Grace/[2009] Life Starts Now/05 - The Good Life.mp3
-156:Three Days Grace/[2009] Life Starts Now/07 - Last To Know.mp3
-157:Three Days Grace/[2009] Life Starts Now/10 - Without You.mp3
-158:Ed Sheeran/Singles/Ed Sheeran - Bad Habits [Official Video]-orJSJGHjBLI.mp3
-159:Linkin Park/Singles/01 - One Step Closer (2000)/USA Radio CD [Version 2]/01 - One Step Closer (Album Version).mp3
-160:Linkin Park/Albums/01 - Hybrid Theory (2000)/08 - In the End.mp3
+0:Seether/[2004] Disclaimer II/01 - Gasoline.mp3
+1:Seether/[2004] Disclaimer II/02 - 69 Tea.mp3
+2:Seether/[2004] Disclaimer II/03 - Fine Again.mp3
+3:Seether/[2004] Disclaimer II/04 - Needles.mp3
+4:Seether/[2004] Disclaimer II/05 - Driven Under.mp3
+5:Seether/[2004] Disclaimer II/06 - Pride.mp3
+6:Seether/[2004] Disclaimer II/07 - Sympathetic.mp3
+7:Seether/[2004] Disclaimer II/08 - Your Bore.mp3
+8:Seether/[2004] Disclaimer II/09 - Fade Away.mp3
+9:Seether/[2004] Disclaimer II/10 - Pig.mp3
+10:Seether/[2004] Disclaimer II/11 - Fuck It.mp3
+11:Seether/[2004] Disclaimer II/12 - Broken.mp3
+12:Seether/[2004] Disclaimer II/13 - Sold Me.mp3
+13:Seether/[2004] Disclaimer II/14 - Cigarettes.mp3
+14:Seether/[2004] Disclaimer II/15 - Love Her.mp3
+15:Seether/[2004] Disclaimer II/16 - Take Me Away.mp3
+16:Seether/[2004] Disclaimer II/17 - Got It Made.mp3
+17:Seether/[2004] Disclaimer II/18 - Out Of My Way.mp3
+18:Seether/[2004] Disclaimer II/19 - Hang On.mp3
+19:Seether/[2004] Disclaimer II/20 - Broken (feat. Amy Lee).mp3
 playlist_end
