@@ -1,7 +1,7 @@
 # Parts of this config were created by Derek Taylor, AKA DistroTube. The rest was created by Matt Weber aka The Linux Cast
 
 font:
-  size: 16
+  size: 12
   offset:
     y: 1
   normal:
@@ -12,8 +12,8 @@ window:
     x: 5
     y: 5
   dimensions:
-    columns: 100
-    lines: 25
+    columns: 120
+    lines: 30
 
 cursor:
   unfocused_hollow: true
